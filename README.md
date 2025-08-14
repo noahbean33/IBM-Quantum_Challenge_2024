@@ -4,7 +4,7 @@
 
 This year’s challenge starts on 5 June, and is about Qiskit SDK 1.0 and working toward utility-scale quantum experiments. 
 
-[![image](IBM-Quantum_Challenge_2024/quantum_challenge_2024_complete.png)]
+![Alt text](./quantum_challenge_2024_complete.png)
 
 https://www.credly.com/badges/fc489908-2516-4fdf-8df4-5d55076e5d28/public_url
 
